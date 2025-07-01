@@ -1,0 +1,11 @@
+{
+    "categories": [
+        {
+            "name": "📌 Général",
+            "channels": [
+                { "name": "bienvenue", "type": "text" },
+                { "name": "règles", "type": "text" }
+            ]
+        }
+    ]
+}
